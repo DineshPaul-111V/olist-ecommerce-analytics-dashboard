@@ -152,3 +152,5 @@ http://localhost:8000/app/index.html
 ## 📜 License & Credits
 
 This project is licensed under the **MIT License**. Data provided by [Olist](https://www.olist.com/) via Kaggle's [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+Author 
+  Dinesh Paul T
